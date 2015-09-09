@@ -1,22 +1,20 @@
 # marvs_movies
 
-Just a personal project that uses python code and the Bootstrap framework to create a simple Favorite Movies Website.
+Just a personal project that uses python code and the Bootstrap 3 framework to create a simple Favorite Movies Website.
 Written by: Marvin Fuller
 Date: Sept 7, 2015
 Filename: READDME.md
 
 #Quick Start (How to run the application):
 To run the python file and generate the .HTML output file:
-  1. Download the following files and store them in the same directory on your computer
-        -fresh_tomatoes.py
-        -media.py
-        -mf_movies2.py
- 2. On a Mac, open a terminal window and change the working directory to the directory that the files above are stored in.
- 3. At the command prompt, type: 'python mf_movies2.py'
- 4. This will run the application and open a browser window to display the newly created HTML page called Marvin's Favorite Movies.
+  1. Download the following files and store them all in the same directory on your computer.
+        (fresh_tomatoes.py, media.py, mf_movies2.py)
+  2. On a Mac, open a terminal window and change the working directory to the directory that the files above are stored in.
+  3. At the command prompt, type: 'python mf_movies2.py'
+  4. This will run the application and open a browser window to display the newly created HTML page called Marvin's Favorite Movies.
 
-To see the final file deployed in production:
-  1. Go to this link www.marvsprojectsite.net, then click on the the link labeld Marv's Favorite Movies Site.
+To see the final web page deployed in production:
+  1. Go to this link www.marvsprojectsite.net, then click on the the link labeled "Marv's Favorite Movies Site".
 
 
 #Documentation
