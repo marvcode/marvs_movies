@@ -3,8 +3,12 @@
 #  Written by: Marvin Fuller
 #  Date: August 27, 2015
 #  Filename: mf_class_try04.py
-#  Purpose: the purpose of this program is to draw some artwork for Udacity Class
+#  Purpose: The purpose of this program is to create the instances of each movie to be 
+#            used in the final website.
+#
 ##################################################################
+""" The purpose of this program is to create the instances of each movie to be used in the final website."""
+
 #   import libraries
 import fresh_tomatoes
 import media
