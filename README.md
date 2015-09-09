@@ -26,11 +26,11 @@ Running the python app 'mf_movies2.py' will create instances of the Movie() clas
 for the Movie() class...
 
 The required arguments for the class are:
--movie_title - Movie Title as you want it to appear on the website
--year - Year of the theatrical release
--movie_storyline - Brief synopsis of the film
--poster_image - A URL that points to a web based image file of the movie poster
--trailer_youtube - A URL that points to the youtube trailer for each movie
+movie_title - Movie Title as you want it to appear on the website
+year - Year of the theatrical release
+movie_storyline - Brief synopsis of the film
+poster_image - A URL that points to a web based image file of the movie poster
+trailer_youtube - A URL that points to the youtube trailer for each movie
 
 The Bootstrap framework will create an HTML output file in the same directory that the mf_movies2.py is located.  The HTML that will be creted will be named marvs_movies.html
 
