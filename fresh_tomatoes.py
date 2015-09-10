@@ -1,20 +1,23 @@
-##################################################################
+######################################################################
 #
-#  Written by: Udacity 
+#  Written by: Udacity
 #  Modified by: Marvin Fuller
 #  Date: Sept. 7, 2015
 #  Filename: fresh_tomatoes.py
-#  Purpose: This program utilizes the BootStrap 3 framework to generate a responsive HTML
-#           file.  This program is utilized for the Udacity FSD Nanodegree.
+#  Purpose: This program utilizes the BootStrap 3 framework to
+#             generate a responsive HTML file.  This program is
+#             utilized for the Udacity FSD Nanodegree.
 #
-##################################################################
-"""This program utilizes the BootStrap 3 framework to generate a responsive HTML
-file.  This program is utilized for the Udacity FSD Nanodegree."""
+######################################################################
+"""This program utilizes the BootStrap 3 framework to generate a
+     responsive HTML file.  This program is utilized for the
+     Udacity FSD Nanodegree."""
 
 #   import libraries
 import webbrowser
 import os
 import re
+
 
 # Styles and scripting for the page
 main_page_head = '''
@@ -23,7 +26,7 @@ main_page_head = '''
 <head>
     <meta charset="utf-8">
     <title>Marvin's Favorite Movies</title>
-    <!-- Bootstrap 3 --> 
+    <!-- Bootstrap 3 -->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
@@ -123,8 +126,10 @@ main_page_content = '''
     <div class="container">
       	<div class="jumbotron">
            <h1>Marvin's Top Ten Favorite Movies</h1>
-           <p>This is a presentation of my all time favorite movies.  There is no way I could possibly 
-           rank them because they are all EXCELLENT!   So these are in no particular order.   Pass the popcorn and ENJOY!</p>
+           <p>This is a presentation of my all time favorite movies.
+            There is no way I could possibly rank them because they are 
+           all EXCELLENT!   So these are in no particular order.   
+           Pass the popcorn and ENJOY!</p>
         </div>
      </div>
      <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
